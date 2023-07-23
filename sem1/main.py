@@ -9,3 +9,26 @@
 # print(name_input)
 # print(type(name_input))
 
+# if name_input > 10:          # в питоне не нужны () для перечисления условия 
+#     print('Число больше 10') # не нужны {} для этого служат отступы от края
+# else:
+#     print('Число меньше 10')
+
+# print('12', 'fhgj', 'fdhgv') # принт будет выводить значеия в '' по дефолту меняя запятую на пробел
+
+# print('12 ' + 'fhgj ' + 'fdhgv') # можно строки выводить со знаком + но пробулы нужно предусмотреть в выводе
+
+# if name == 'stroka':
+#     print(1)
+# elif name == 'stroka2':     # elif заменяет контрукцию else if
+#     print(2)                # применяется, чтобы не уводить глубоко табуляцию 
+# elif name == 'stroka3':
+#     print(3)
+# elif name == 'stroka4':
+#     print(4)
+# elif name == 'stroka5':
+#     print(5)
+# else:
+#     print(12)
+
+
